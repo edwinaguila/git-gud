@@ -1,4 +1,4 @@
-HEADER 2 - Proposed changes for Feature-A
+HEADER 2 - Proposed changes
 LINE BREAK
 
 HEADER 2 - Link to Product Tracker
